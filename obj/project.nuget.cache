@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4IgoStmq9IY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eduardo\\Downloads\\ativ-extra (1)-20261113T015646Z-1-001\\ativ-extra (1)\\BibliotecaApi (1)\\BibliotecaApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.openapi\\3.11.0\\microsoft.openapi.3.11.0.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\swashbuckle.aspnetcore\\11.0.0\\swashbuckle.aspnetcore.11.0.0.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\11.0.0\\swashbuckle.aspnetcore.swagger.11.0.0.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\11.0.0\\swashbuckle.aspnetcore.swaggergen.11.0.0.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\11.0.0\\swashbuckle.aspnetcore.swaggerui.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

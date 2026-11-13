@@ -1,0 +1,99 @@
+
+body {
+    background-color: #f4f6f9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+header {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+header h1 {
+    font-weight: 700;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.06);
+}
+
+.card h2 {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #26364a;
+}
+
+.dashboard-card {
+    border-left: 5px solid #0d6efd;
+}
+
+.dashboard-number {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #0d6efd;
+    margin-bottom: 0;
+}
+
+.form-label {
+    font-weight: 600;
+}
+
+.form-control,
+.form-select {
+    border-radius: 8px;
+}
+
+.btn {
+    border-radius: 8px;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+.table th {
+    white-space: nowrap;
+}
+
+.acoes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.acoes .btn {
+    font-size: 0.8rem;
+}
+
+#mensagem {
+    position: relative;
+}
+
+footer {
+    margin-top: 30px;
+}
+
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.7rem;
+    }
+
+    .dashboard-number {
+        font-size: 1.6rem;
+    }
+
+    .table {
+        font-size: 0.85rem;
+    }
+
+    .acoes {
+        min-width: 130px;
+    }
+}

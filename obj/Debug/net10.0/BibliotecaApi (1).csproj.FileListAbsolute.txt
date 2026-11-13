@@ -1,0 +1,8 @@
+C:\Users\Eduardo\Downloads\ativ-extra (1)-20261113T015646Z-1-001\ativ-extra (1)\BibliotecaApi (1)\obj\Debug\net10.0\BibliotecaApi (1).csproj.AssemblyReference.cache
+C:\Users\Eduardo\Downloads\ativ-extra (1)-20261113T015646Z-1-001\ativ-extra (1)\BibliotecaApi (1)\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Eduardo\Downloads\ativ-extra (1)-20261113T015646Z-1-001\ativ-extra (1)\BibliotecaApi (1)\obj\Debug\net10.0\BibliotecaApi (1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Downloads\ativ-extra (1)-20261113T015646Z-1-001\ativ-extra (1)\BibliotecaApi (1)\obj\Debug\net10.0\BibliotecaApi (1).AssemblyInfoInputs.cache
+C:\Users\Eduardo\Downloads\ativ-extra (1)-20261113T015646Z-1-001\ativ-extra (1)\BibliotecaApi (1)\obj\Debug\net10.0\BibliotecaApi (1).AssemblyInfo.cs
+C:\Users\Eduardo\Downloads\ativ-extra (1)-20261113T015646Z-1-001\ativ-extra (1)\BibliotecaApi (1)\obj\Debug\net10.0\BibliotecaApi (1).csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Downloads\ativ-extra (1)-20261113T015646Z-1-001\ativ-extra (1)\BibliotecaApi (1)\obj\Debug\net10.0\BibliotecaApi (1).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eduardo\Downloads\ativ-extra (1)-20261113T015646Z-1-001\ativ-extra (1)\BibliotecaApi (1)\obj\Debug\net10.0\BibliotecaApi (1).MvcApplicationPartsAssemblyInfo.cache
